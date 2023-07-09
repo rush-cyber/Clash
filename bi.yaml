@@ -1,0 +1,6 @@
+rule-providers:
+  bilibili:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/rush-cyber/Clash/main/rule/bilibili.list
+    path: ./ruleset/bilibili.yaml
