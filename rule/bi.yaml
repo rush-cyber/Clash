@@ -2,5 +2,6 @@ rule-providers:
   bilibili:
     type: http
     behavior: domain
-    url: https://raw.githubusercontent.com/rush-cyber/Clash/main/rule/bilibili.list
+    url: https://raw.githubusercontent.com/rush-cyber/Clash/main/rule/bilibili.yaml
     path: ./ruleset/bilibili.yaml
+    interval: 86400
