@@ -252,14 +252,14 @@ rule:
  - DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,🚀 节点选择
  - DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net,🚀 节点选择
  - DOMAIN-SUFFIX,yo9.com,🚀 节点选择
- - IP-CIDR,106.75.74.76/32,no-resolve,🚀 节点选择
- - IP-CIDR,111.206.25.147/32,no-resolve,🚀 节点选择
- - IP-CIDR,119.3.238.64/32,no-resolve,🚀 节点选择
- - IP-CIDR,120.92.108.182/32,no-resolve,🚀 节点选择
- - IP-CIDR,120.92.113.99/32,no-resolve,🚀 节点选择
- - IP-CIDR,120.92.153.217/32,no-resolve,🚀 节点选择
- - IP-CIDR,134.175.207.130/32,no-resolve,🚀 节点选择
- - IP-CIDR,203.107.1.0/24,no-resolve,🚀 节点选择
+ - IP-CIDR,106.75.74.76/32,🚀 节点选择,no-resolve
+ - IP-CIDR,111.206.25.147/32,🚀 节点选择,no-resolve
+ - IP-CIDR,119.3.238.64/32,🚀 节点选择,no-resolve
+ - IP-CIDR,120.92.108.182/32,🚀 节点选择,no-resolve
+ - IP-CIDR,120.92.113.99/32,🚀 节点选择,no-resolve
+ - IP-CIDR,120.92.153.217/32,🚀 节点选择,no-resolve
+ - IP-CIDR,134.175.207.130/32,🚀 节点选择,no-resolve
+ - IP-CIDR,203.107.1.0/24,🚀 节点选择,no-resolve
  - PROCESS-NAME,com.bilibili.app.blue,🚀 节点选择
  - PROCESS-NAME,com.bilibili.app.in,🚀 节点选择
  - PROCESS-NAME,com.bilibili.comic,🚀 节点选择
